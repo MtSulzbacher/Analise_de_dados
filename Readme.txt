@@ -35,10 +35,3 @@ O notebook `inicial.ipynb` inclui várias seções que guiam você através do p
 ## Contribuições
 
 Contribuições, problemas e solicitações de funcionalidades são bem-vindos. Para contribuir, por favor, abra um issue ou faça um pull request.
-
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-```
-
-Este README fornece uma visão geral básica do seu projeto de análise de dados. Ele inclui uma descrição do projeto, detalhes sobre os dados, instruções de instalação e uso, bem como informações para contribuição e licença. Você pode ajustá-lo conforme necessário para incluir quaisquer detalhes adicionais específicos do seu projeto.
